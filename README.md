@@ -1,7 +1,7 @@
 
 ## calendar-app
 
-Lista datotek v katerih se kod aplikacije za lažji pregled:
+Lista datotek aplikacije za lažji pregled:
 
     \calendar-app\.env
     \calendar-app\resources\views\welcome.blade.php
